@@ -1,5 +1,5 @@
-// Name:
-// Date:
+// Name:Dominic Torres
+// Date:9/23/20
 // Assignment: Template Literal Practice
 
 ////////////////////////Pt. 1////////////////////////
